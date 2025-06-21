@@ -7,13 +7,13 @@ A responsive and visually appealing task management dashboard built with **React
 
 ## Features
 
-- 🧭 **Sidebar Navigation** with Lucide icons
-- 📊 **Charts** using Recharts (Line, Bar, and Pie)
-- ✅ **Drag & Drop Kanban Board** with `react-beautiful-dnd`
-- 📅 **Calendar Integration**
-- 🌙 **Light/Dark Mode Toggle**
-- 🧩 **Component-Based Design**
-- 🔄 **Routing** with React Router
+-  **Sidebar Navigation** with Lucide icons
+-  **Charts** using Recharts (Line, Bar, and Pie)
+-  **Drag & Drop Kanban Board** with `react-beautiful-dnd`
+-  **Calendar Integration**
+-  **Light/Dark Mode Toggle**
+-  **Component-Based Design**
+-  **Routing** with React Router
 
 ## Tech Stack
 
